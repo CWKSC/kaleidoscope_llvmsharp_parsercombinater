@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  llvm13:
+    container_name: llvm-env-container
+    image: llvm-env
+    build: .
+    hostname: OwO
+    volumes:
+      - ./workspace:/workspace
+    working_dir: /workspace
+    command: ["/bin/bash", "-c", "trap : TERM INT; sleep infinity & wait"]

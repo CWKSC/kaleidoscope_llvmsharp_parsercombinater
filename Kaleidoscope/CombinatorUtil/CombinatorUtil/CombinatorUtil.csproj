@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\ListTreeUtil\ListTreeUtil\ListTreeUtil.csproj" />
+    <ProjectReference Include="..\..\LLVMSharpUtil\LLVMSharpUtil\LLVMSharpUtil_.csproj" />
+    <ProjectReference Include="..\..\PrinterUtil\PrinterUtil\PrinterUtil.csproj" />
+    <ProjectReference Include="..\..\Util\Util.csproj" />
+  </ItemGroup>
+
+</Project>
