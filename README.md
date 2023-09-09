@@ -2,7 +2,7 @@
 
 This would be a little bit wasteful if I kept the repository private
 
-This is a backup of when I learning LLVMSharp and use parser combinator to make a programming language
+This is a backup of when I learning [LLVMSharp](https://github.com/dotnet/LLVMSharp) and use parser combinator to make a programming language
 
 Kaleidoscope, is a programming language described in [LLVM tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 
@@ -18,13 +18,13 @@ Run Sample/Kaleidoscope project
 
 ## Expected Output:
 
-- [LLVM IR running output](#-llvm-ir-running-output)
+- [LLVM IR running output](#llvm-ir-running-output)
 
-- [LLVM IR](#-llvm-ir)
+- [LLVM IR](#llvm-ir)
 
-- [AST](#-ast)
+- [AST](#ast)
 
-- [Pre LLVM structure](#-pre-llvm-structure)
+- [Pre LLVM structure](#pre-llvm-structure)
 
 ## LLVM IR running output
 
