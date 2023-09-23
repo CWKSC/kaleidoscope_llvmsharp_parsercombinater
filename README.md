@@ -14,7 +14,7 @@ Requirement:
 
 Run Sample/Kaleidoscope project
 
-![image](./image/structure.png)
+<img src="./image/structure.png" width="220">
 
 ## Expected Output:
 
