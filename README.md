@@ -1,18 +1,19 @@
-# LLVMSharp_Kaleidoscope_ParserCombinater_backup
+# kaleidoscope_llvmsharp_parsercombinater
 
-This would be a little bit wasteful if I kept the repository private
-
-This is a backup of when I learning [LLVMSharp](https://github.com/dotnet/LLVMSharp) and use parser combinator to make a programming language
+> [!NOTE]
+> This would be a little bit wasteful if I kept the repository private
+> 
+> This is a backup of when I learning [LLVMSharp](https://github.com/dotnet/LLVMSharp) and use parser combinator to make a programming language
 
 Kaleidoscope, is a programming language described in [LLVM tutorial](https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html)
 
-Requirement: 
+## Requirement
   
 - [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
   
 - [Visual Studio 2022 Preview](https://visualstudio.microsoft.com/zh-hant/vs/preview/)
 
-Run Sample/Kaleidoscope project
+Run `Sample/Kaleidoscope` project
 
 <img src="./image/structure.png" width="220">
 
